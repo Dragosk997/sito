@@ -143,14 +143,14 @@
 /**                                   第一部分                                  **/
 /*盒子*/
 .ly-box01 {
-    width: 90%;
+    width: 100px;
     height: 90%;
     background-color: #FFF;
-    border-radius: 25px;
+    border-radius: 10px;
     position: absolute;
-    left: 90%;
-    bottom: 80%;
-    margin-bottom: 20%;
+    left: 0%;
+    top: 0%;
+    margin-bottom: 0%;
     overflow: hidden;
     transform-origin: left top;
     animation: box_to_point 18.5s 0s, bounce 2.5s 18.5s;
@@ -335,7 +335,7 @@
 
 .ly-stxt01 {
     font-family: Microsoft YaHei;
-    font-size: 20px;
+    font-size: 10px;
     font-color: #000;
     position: relative;
     left: 5%;
@@ -385,7 +385,7 @@
 
 .ly-stxt02 {
     font-family: Microsoft YaHei;
-    font-size: 20px;
+    font-size: 10px;
     font-color: #000;
     position: relative;
     left: 5%;
@@ -446,7 +446,7 @@
 
 .ly-stxt03 {
     font-family: Microsoft YaHei;
-    font-size: 20px;
+    font-size: 10px;
     font-color: #000;
     position: relative;
     left: 5%;
@@ -507,7 +507,7 @@
 
 .ly-stxt04 {
     font-family: Microsoft YaHei;
-    font-size: 20px;
+    font-size: 10px;
     font-color: #000;
     position: relative;
     left: 5%;
@@ -568,7 +568,7 @@
 
 .ly-stxt05 {
     font-family: Microsoft YaHei;
-    font-size: 20px;
+    font-size: 10px;
     font-color: #000;
     position: relative;
     left: 5%;
