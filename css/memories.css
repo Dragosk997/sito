@@ -143,20 +143,20 @@
 /**                                   第一部分                                  **/
 /*盒子*/
 .ly-box01 {
-    width: 50px;
-    height: 50px;
+    width: 90%;
+    height: 90%;
     background-color: #FFF;
     border-radius: 25px;
     position: absolute;
-    left: 48%;
-    bottom: 50%;
-    margin-bottom: 50%;
+    left: 90%;
+    bottom: 80%;
+    margin-bottom: 20%;
     overflow: hidden;
     transform-origin: center bottom;
     animation: box_to_point 18.5s 0s, bounce 2.5s 18.5s;
 }
 
-@keyframes box_to_point {
+@keyframes box_to_point { 
     0% {
         margin-bottom: 50%;
         width: 50px;
@@ -321,21 +321,21 @@
 /*文本*/
 .ly-txt01 {
     position: absolute;
-    width: 40%;
+    width: 90%;
     left: 10%;
     top: 10%;
 }
 
 .ly-txt02 {
     position: absolute;
-    width: 40%;
+    width: 90%;
     left: 60%;
     top: 10%;
 }
 
 .ly-stxt01 {
     font-family: Microsoft YaHei;
-    font-size: 30px;
+    font-size: 20px;
     font-color: #000;
     position: relative;
     left: 5%;
@@ -385,7 +385,7 @@
 
 .ly-stxt02 {
     font-family: Microsoft YaHei;
-    font-size: 30px;
+    font-size: 20px;
     font-color: #000;
     position: relative;
     left: 5%;
@@ -446,7 +446,7 @@
 
 .ly-stxt03 {
     font-family: Microsoft YaHei;
-    font-size: 30px;
+    font-size: 20px;
     font-color: #000;
     position: relative;
     left: 5%;
@@ -507,7 +507,7 @@
 
 .ly-stxt04 {
     font-family: Microsoft YaHei;
-    font-size: 30px;
+    font-size: 20px;
     font-color: #000;
     position: relative;
     left: 5%;
@@ -568,7 +568,7 @@
 
 .ly-stxt05 {
     font-family: Microsoft YaHei;
-    font-size: 30px;
+    font-size: 20px;
     font-color: #000;
     position: relative;
     left: 5%;
@@ -629,7 +629,7 @@
 
 .ly-stxt06 {
     font-family: Microsoft YaHei;
-    font-size: 30px;
+    font-size: 20px;
     font-color: #000;
     position: relative;
     right: 5%;
@@ -679,7 +679,7 @@
 
 .ly-stxt07 {
     font-family: Microsoft YaHei;
-    font-size: 30px;
+    font-size: 20px;
     font-color: #000;
     position: relative;
     right: 5%;
@@ -740,7 +740,7 @@
 
 .ly-stxt08 {
     font-family: Microsoft YaHei;
-    font-size: 30px;
+    font-size: 20px;
     font-color: #000;
     position: relative;
     right: 5%;
