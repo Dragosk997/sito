@@ -148,8 +148,8 @@
     background-color: #FFF;
     border-radius: 10px;
     position: absolute;
-    left: 5%;
-    bottom: 80%;
+    left: 0%;
+    top: 0%;
     margin-bottom: 10%;
     overflow: hidden;
     transform-origin: left top;
