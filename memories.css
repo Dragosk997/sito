@@ -150,7 +150,7 @@
     position: absolute;
     left: 0%;
     top: 0%;
-    margin-bottom: 10%;
+    margin-bottom: 0%;
     overflow: hidden;
     transform-origin: left top;
     animation: box_to_point 18.5s 0s, bounce 2.5s 18.5s;
